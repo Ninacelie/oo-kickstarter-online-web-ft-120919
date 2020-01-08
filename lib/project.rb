@@ -1,5 +1,5 @@
-class Project 
+class Project
 
 
-  
-end 
+
+end
